@@ -1,6 +1,16 @@
 {
-  "blogs":[
-    { "title": "My new website", "body": "lorem ipsum...", "author": "Tobi", "id": 1 },
-    { "title": "My new website", "body": "lorem ipsum...", "author": "Samuel", "id": 2 }
+  "blogs": [
+    {
+      "title": " oljskdj",
+      "body": " mnsdkokx",
+      "author": "samuel",
+      "id": 4
+    },
+    {
+      "title": " my blog",
+      "body": " csjosd",
+      "author": "samuel",
+      "id": 6
+    }
   ]
 }
